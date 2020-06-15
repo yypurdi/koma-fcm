@@ -2,7 +2,7 @@
  * Copyright   : KOMA-Network (Indonesia IoT Club)
  * Create by   : Yan Yan Purdiansah
  * Create date : 01/06/2020
- * Link        :
+ * Link        : https://github.com/yypurdi/koma-fcm
  * Description : This is the sample script for compatibility between FCM and KOMA in XMPP/Raw protocol access
  *               This script is implemented in App Server side in Trusted Environment
  */
